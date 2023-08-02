@@ -7,6 +7,7 @@ This is a short story about a girl named Karen and her friend. Run `index.html` 
 - Fork this repo
 - Clone this repo
 - Practice JavaScript Basics - _datatypes, operators, conditions_
+- Run with Live server using VSCode
 
 ## Trial 1: Home Sweet Home (Done for your reference)
 
